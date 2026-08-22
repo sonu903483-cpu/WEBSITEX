@@ -368,7 +368,7 @@
 <div class="strip">
   <div><strong>Same-day</strong><span>Local delivery</span></div>
   <div><strong>100%</strong><span>Freshness checked</span></div>
-  <div><strong>No fuss</strong><span>Order on WhatsApp too</span></div>
+  <div><strong>No fuss</strong><span>Order on WhatsApp too</span></div> 
 </div>
 
 <footer>
